@@ -1,3 +1,3 @@
 # Abstractive-Text-Summarizer
 
-Abstractive Text Summarizer using Google BERT model using HuggingFace Transformers API
+Abstractive Text Summarizer using Google's BERT model using HuggingFace Transformers API
